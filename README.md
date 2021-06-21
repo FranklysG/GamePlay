@@ -13,19 +13,19 @@ You must have installed package npm - Node + NPM, Yarn and Expo
 
 This app is still being built, so its current snapshot is as the images below:
 
-<!-- - Splash page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/splash_page.png" height="400px">
+- Splash page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.png" height="400px">
 
 
-- Home page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/home_page.png" height="400px">
+- Signin page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.png" height="400px">
 
 
-- Challenge page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/challenge_page.png" height="400px">
+<!-- - Challenge page:
+<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/challenge_page.png" height="400px"> -->
 
 
-- Result page:
+<!-- - Result page:
 <img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/result_page.png" height="400px"> -->
 
 ## 🎨 Design
