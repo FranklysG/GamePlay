@@ -1,7 +1,7 @@
+import React from 'react';
 import { 
     View,
     Text,
-    StatusBar,
     Image,
 } from 'react-native'; 
 
@@ -12,11 +12,7 @@ import { styles } from './styles';
 export function SignIn(){
     return (
         <View style={styles.cotnainer}>
-            <StatusBar 
-                barStyle="light-content"
-                backgroundColor="trasparent"
-                translucent
-            />
+            
             <Image 
                 source={IllustrationImg}
                 style={styles.image} 
@@ -25,9 +21,8 @@ export function SignIn(){
 
             <View style={styles.content}>
                 <Text style={styles.title}>
-                    Organize {'\n'}
-                    suas jogatinas {'\n'}
-                    facilmente
+                    Entre e {'\n'}
+                    Organize seus Games
                 </Text>
                 <Text style={styles.subTitle}>
                     Crie grupos para jogar seus games {'\n'}

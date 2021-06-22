@@ -4,7 +4,6 @@ import { theme } from '../../global/styles/theme';
 export const styles = StyleSheet.create({
     cotnainer: {
         flex: 1,
-        backgroundColor: theme.colors.background,
         justifyContent: 'center',
         alignItems: 'center'
     },
@@ -21,12 +20,15 @@ export const styles = StyleSheet.create({
         textAlign: 'center',
         fontSize: 40,
         marginBottom: 16,
-        fontWeight: '800'
+        fontFamily: theme.fonts.title700,
+        lineHeight: 40
     },
     subTitle: {
         color: theme.colors.heading,
         textAlign: 'center',
         fontSize: 15,
-        marginBottom: 64,
+        marginBottom: 35,
+        fontFamily: theme.fonts.title500,
+        lineHeight: 20
     }
 });
