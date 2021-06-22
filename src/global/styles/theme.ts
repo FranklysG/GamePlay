@@ -22,5 +22,8 @@ export const theme = {
         title500: 'Rajdhani_500Medium',
         text400: 'Inter_400Regular',
         text500: 'Inter_500Medium',
+    },
+    img:{
+        avatar: 'https://avatars.githubusercontent.com/u/42286289?v=4'
     }
 }
