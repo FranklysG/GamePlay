@@ -14,15 +14,15 @@ You must have installed package npm - Node + NPM, Yarn and Expo
 This app is still being built, so its current snapshot is as the images below:
 
 - Splash page:
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.png" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="400px">
 
 
 - Signin page:
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.png" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="400px">
 
 
 - Profile page:
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.png" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="400px">
 
  
 <!-- - Result page:
