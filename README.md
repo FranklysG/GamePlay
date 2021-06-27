@@ -22,7 +22,7 @@ This app is still being built, so its current snapshot is as the images below:
 
 
 - Profile page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/profile_page.png" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.png" height="400px">
 
  
 <!-- - Result page:
