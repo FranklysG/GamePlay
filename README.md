@@ -21,8 +21,8 @@ This app is still being built, so its current snapshot is as the images below:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.png" height="400px">
 
 
-<!-- - Challenge page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/challenge_page.png" height="400px"> -->
+- Profile page:
+<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/profile_page.png" height="400px">
 
  
 <!-- - Result page:
