@@ -25,8 +25,8 @@ This app is still being built, so its current snapshot is as the images below:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="400px">
 
  
-<!-- - Result page:
-<img src="https://github.com/FranklysG/nlw5/blob/main/assets/readme/result_page.png" height="400px"> -->
+- Members page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_pages.jpeg" height="400px">
 
 ## 🎨 Design
 

@@ -24,11 +24,11 @@ export type AppointmentsProps = {
     description: string;
 }
 
-type Porps = RectButtonProps & {
+type Props = RectButtonProps & {
     data: AppointmentsProps;
 }
 
-export function Appointments({ data, ...rest }: Porps) {
+export function Appointments({ data, ...rest }: Props) {
 
     const [category] = categories.filter(item => item.id === data.category);
     const { owner } = data.guild;
