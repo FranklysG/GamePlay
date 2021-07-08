@@ -46,11 +46,15 @@ export function Home() {
         navigation.navigate('Appointments');
     }
 
+    function hendleAppointmentsCreate() {
+        navigation.navigate('AppointmentsCreate');
+    }
+
     return (
         <View>
             <View style={styles.header}>
                 <Profile />
-                <ButtonAdd />
+                <ButtonAdd onPress={hendleAppointmentsCreate}/>
             </View>
             <CategorySelect
                 CategorySelected={category}
