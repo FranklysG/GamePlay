@@ -26,7 +26,15 @@ This app is still being built, so its current snapshot is as the images below:
 
  
 - Members page:
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_pages.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_page.jpeg" height="400px">
+
+ 
+- Server page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/server_page.jpeg" height="400px">
+
+ 
+- Select server page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="400px">
 
 ## 🎨 Design
 
