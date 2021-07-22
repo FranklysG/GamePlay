@@ -15,10 +15,12 @@ This app is still being built, so its current snapshot is as the images below:
 
 <p align="left">
 <code>
+
 <p>sdasd</p>
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="400px">
 </code>
 <code>
+
 <p>sdasd</p>
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="400px">
 </code>
