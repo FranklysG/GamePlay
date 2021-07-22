@@ -13,13 +13,15 @@ You must have installed package npm - Node + NPM, Yarn and Expo
 
 This app is still being built, so its current snapshot is as the images below:
 
+<p align="left">
+<code>
 - Splash page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="400px">
-
-
+</code>
+<code>
 - Signin page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="400px">
-
+</code>
 
 - Profile page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="400px">
@@ -38,7 +40,7 @@ This app is still being built, so its current snapshot is as the images below:
 
 - Auth discord form page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/auth_discord.jpeg" height="400px">
-
+</p>
 ## 🎨 Design
 
 The design was created by Rockeatset and can be found at https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together/duplicate
