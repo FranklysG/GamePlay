@@ -34,7 +34,10 @@ This app is still being built, so its current snapshot is as the images below:
 
  
 - Select server page:
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="400px"> 
+
+- Auth discord form page:
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/auth_discord.jpeg" height="400px">
 
 ## 🎨 Design
 
