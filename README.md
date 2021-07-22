@@ -15,31 +15,42 @@ This app is still being built, so its current snapshot is as the images below:
 
 <p align="left">
 <code>
+
 - Splash page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="400px">
 </code>
 <code>
+
 - Signin page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="400px">
 </code>
+<code>
 
 - Profile page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="400px">
+</code>
+<code>
 
- 
 - Members page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_page.jpeg" height="400px">
+</code>
+</p>
+<p align="left">
+ <code>
 
- 
 - Server page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/server_page.jpeg" height="400px">
+</code>
+<code>
 
- 
 - Select server page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="400px"> 
+</code>
+<code>
 
 - Auth discord form page:
 <img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/auth_discord.jpeg" height="400px">
+</code>
 </p>
 ## 🎨 Design
 
