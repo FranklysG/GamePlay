@@ -36,11 +36,57 @@ export function Home() {
             category: '1',
             date: '22/06 às 20:40h',
             description: 'É hoje que vamos chegar ao top sem perder nenhuma partida'
+        }, {
+            id: '3',
+            guild: {
+                id: '1',
+                name: 'lendarios',
+                icon: null,
+                owner: true
+            },
+            category: '1',
+            date: '22/06 às 20:40h',
+            description: 'É hoje que vamos chegar ao top sem perder nenhuma partida'
         },
+        {
+            id: '4',
+            guild: {
+                id: '1',
+                name: 'lendarios',
+                icon: null,
+                owner: true
+            },
+            category: '1',
+            date: '22/06 às 20:40h',
+            description: 'É hoje que vamos chegar ao top sem perder nenhuma partida'
+        }, {
+            id: '5',
+            guild: {
+                id: '1',
+                name: 'lendarios',
+                icon: null,
+                owner: true
+            },
+            category: '1',
+            date: '22/06 às 20:40h',
+            description: 'É hoje que vamos chegar ao top sem perder nenhuma partida'
+        },
+        {
+            id: '6',
+            guild: {
+                id: '1',
+                name: 'lendarios',
+                icon: null,
+                owner: true
+            },
+            category: '1',
+            date: '22/06 às 20:40h',
+            description: 'É hoje que vamos chegar ao top sem perder nenhuma partida'
+        }
     ]
     function handleCategorySelect(categoryId: string) {
         categoryId === category ? setCategory('') : setCategory(categoryId);
-    } 
+    }
 
     function hendleAppointments() {
         navigation.navigate('Appointments');
@@ -54,30 +100,31 @@ export function Home() {
         <View>
             <View style={styles.header}>
                 <Profile />
-                <ButtonAdd onPress={hendleAppointmentsCreate}/>
+                <ButtonAdd onPress={hendleAppointmentsCreate} />
             </View>
             <CategorySelect
                 CategorySelected={category}
                 setCategory={handleCategorySelect}
-                hasCheckBox={false}/>
+                hasCheckBox={false} />
 
             <View style={styles.content}>
                 <ListHeader
                     title={'Partidas agendadas'}
                     subtitle={'Total 6'} />
 
-                <FlatList
-                    ItemSeparatorComponent={() => <ListDivisor />}
-                    data={appointments}
-                    keyExtractor={item => item.id}
-                    renderItem={({ item }) => (
-                        <Appointments
-                            data={item}
-                            onPress={hendleAppointments}
-                        />
-                    )}
-                />
             </View>
+            <FlatList
+                contentContainerStyle={{ paddingBottom: 70}}
+                ItemSeparatorComponent={() => <ListDivisor />}
+                data={appointments}
+                keyExtractor={item => item.id}
+                renderItem={({ item }) => (
+                    <Appointments
+                        data={item}
+                        onPress={hendleAppointments}
+                    />
+                )}
+            />
         </View>
 
     );
