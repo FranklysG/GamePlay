@@ -8,7 +8,7 @@ import React,
 } from "react";
 
 import { api } from '../services/api';
-import { COLLETION_USER } from '../configs/database';
+import { COLLETION_APPOINTMENTS, COLLETION_USER } from '../configs/database';
 import * as AuthSession from 'expo-auth-session';
 import AsyncStorage from "@react-native-async-storage/async-storage";
 
@@ -30,6 +30,7 @@ type User = {
 type AuthData = {
     user: User,
     signIn: () => Promise<void>,
+    singOut: () => Promise<void>,
     loading: boolean
 }
 
@@ -73,6 +74,11 @@ function AuthProvider({ children}: AuthProviderProps) {
         }
     }
 
+    async function singOut() {
+        setUser({} as User);
+        await AsyncStorage.removeItem(COLLETION_USER);
+    }
+
     async function loadUserStorageData(){
         const storage = await AsyncStorage.getItem(COLLETION_USER);
         if(storage){
@@ -91,6 +97,7 @@ function AuthProvider({ children}: AuthProviderProps) {
         <Auth.Provider value={{
             user,
             signIn,
+            singOut,
             loading
         }}>
             {children}

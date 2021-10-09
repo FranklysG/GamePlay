@@ -5,23 +5,23 @@ import TrainingSvg from '../assets/training.svg';
 
 export const categories = [
     {
-        id: '1',
-        title: 'Ranqueada',
+        id: "1",
+        title: "Ranqueada",
         icon: RankedSvg
     },
     {
-        id: '2',
-        title: 'Ranqueada',
+        id: "2",
+        title: "Duel",
         icon: DuelSvg
     },
     {
-        id: '3',
-        title: 'Ranqueada',
+        id: "3",
+        title: "Diversão",
         icon: FunSvg
     },
     {
-        id: '4',
-        title: 'Training',
+        id: "4",
+        title: "Treino",
         icon: TrainingSvg
     }
 ]
