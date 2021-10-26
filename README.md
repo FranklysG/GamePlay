@@ -15,27 +15,27 @@ This app is still being built, so its current snapshot is as the images below:
 
 <p align="left">
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/splash_page.jpeg" height="450px">
 </code>
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/signin_page.jpeg" height="450px">
 </code>
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/profile_page.jpeg" height="450px">
 </code>
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/members_page.jpeg" height="450px">
 </code>
 </p>
 <p align="left">
  <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/server_page.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/server_page.jpeg" height="450px">
 </code>
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="400px"> 
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/select_server_page.jpeg" height="450px"> 
 </code>
 <code>
-<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/auth_discord.jpeg" height="400px">
+<img src="https://github.com/FranklysG/nlw6/blob/master/assets/readme/auth_discord.jpeg" height="450px">
 </code>
 </p>
 
